@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Monnappa-KS
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java, C language🤩
-- 💞️ I’m looking to collaborate on ...
+- 👽 I'm good in python, HTML and C++
+- 💞️ I’m looking to collaborate on mobile app development projects
 - 📫 How to reach me ? 🤔
 It's simple, mail me @rakshathmonnappa8@gmail.com
 
